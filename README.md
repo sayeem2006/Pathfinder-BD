@@ -49,7 +49,8 @@ This project currently uses sample bus routes and fares for demonstration purpos
 - Support one-way bus routes.
 - Load route data from external files.
 - Improve route recommendations.
-  GitHub: [@sayeem2006](https://github.com/sayeem2006)
+  
+GitHub: [@sayeem2006](https://github.com/sayeem2006)
 
 Project: Pathfinder BD
 
